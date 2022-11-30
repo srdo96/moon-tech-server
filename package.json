@@ -4,6 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "author": "Mir Hussain",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
